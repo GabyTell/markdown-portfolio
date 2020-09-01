@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+## My favorite food is:
+- Chocolate :chocolate_bar:
+- Icecream :icecream:
+- Coffee :coffee:
+- Pizza :pizza:
+- Cookies :cookie:
